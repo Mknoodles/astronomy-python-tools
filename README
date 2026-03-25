@@ -1,2 +1,30 @@
-Welcome to my collection of python scripts used for astronomy and astrophysics
+# Astronomy Python Tools
 
+Welcome to my collection of Python scripts used for astronomy and astrophysics!
+
+This repository contains Python scripts I've written to support my astronomy classes.
+
+These include tools for:
+- Spectral Line Calculations (Balmer Series)
+- Orbital Mechanics (Kepler's Laws, Velocity)
+- Data Visualizations and Graphing
+
+I created these mainly for studying astronomy and astrophysics. I plan to expand this repository with more scripts to help my research projects.
+
+## Tools
+
+### Fundamentals
+- Balmer Series Calculator (Visible Hydrogen Spectral Lines)
+
+### Orbital Mechanics
+- Kepler's Third Law Graph
+- Orbital Velocity Vs. Distance
+
+### Data Analysis (in progress)
+- Light curve plotting tools (for variable stars)
+
+## Languages and Libraries Used
+- Python
+- NumPy
+- Matplotlib
+ 
