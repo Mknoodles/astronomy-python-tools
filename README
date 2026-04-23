@@ -31,6 +31,7 @@ I created these mainly for studying astronomy and astrophysics. I plan to expand
 
 ## Languages and Libraries Used
 - Python
+ - Astropy
  - NumPy
  - Matplotlib
  
