@@ -1,23 +1,13 @@
 import numpy as np
-import astropy
-from astropy import units as u 
+from astropy.constants import c
 
-# Placeholder before I figure out scientific notation for astropy
-print("Input your numbers without the scientific notater. You can tack on the scientific notation after you input your mass")
+# Convert speed of light (c) to pure value without units
+c = c.to_value()
 
 # Mass in kg
 mass = float(input("What is the mass of your object in kg? "))
 
-# Scientific notation exponent
-scientific_notation_modifier_mass_exponent = float(input("What is the exponent for your scientific notater? "))
-
-# Scientific notation base and exponent
-scientific_notation_modifier_mass = float(10**scientific_notation_modifier_mass_exponent)
-
-# Mass redefined with scientific notation
-mass = mass * scientific_notation_modifier_mass_exponent
-
 # Equation for E=mc^2
-Energy = mass*((astropy.constants.c)**2)
+Energy = mass*((c)**2)
 
 print("Total Energy output = ",Energy," Joules")
