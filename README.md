@@ -43,9 +43,9 @@ I created these mainly for studying astronomy and astrophysics. I plan to expand
 
 ## Languages and Libraries Used
 - Python
- - Astropy
- - NumPy
- - Matplotlib
+  - Astropy
+  - Matplotlib
+  - NumPy
 
 ## Development Notes
 - Building these scripts has honestly made some homework take longer, but it has also helped me understand the math, physics, and visualizations.
