@@ -42,4 +42,7 @@ I created these mainly for studying astronomy and astrophysics. I plan to expand
  - Astropy
  - NumPy
  - Matplotlib
+
+## Development Notes
+- These scripts have made homework take longer, but given me a better understanding on how the math works and how it's visualized
  
