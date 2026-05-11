@@ -44,5 +44,6 @@ I created these mainly for studying astronomy and astrophysics. I plan to expand
  - Matplotlib
 
 ## Development Notes
-- These scripts have made homework take longer, but given me a better understanding on how the math works and how it's visualized
+- Building these scripts has honestly made some homework take longer, but it has also helped me understand the math, physics, and visualizations.
+- Many projects started as class concepts and eventually expanded into independent exploration and debugging.
  
