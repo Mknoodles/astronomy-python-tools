@@ -14,19 +14,22 @@ def Ask_M():
 def Ask_m():
     return float(input("What is the Mass of the second object? (input in kg) "))
 
+# Converting G to value without units
+G = G.to_value()
+
 # Welcome Messages and Guide
 print("Welcome to the Kepler's Third Law Calculator!")
 
 # Asking for which Variable to Solve For
 missing_variable = input("In the general physics equation for Kepler's Third Law, which variable do you want to solve for? This includes variables T (time in seconds), a (semi-major axis in meters), M (first mass in kg), and m (second mass in kg) ")
-G = G.value
-# If statement to 
+
+# If and elif statement for 
 if missing_variable.lower() in ['t']:
     a = Ask_a()
     M = Ask_M()
     m = Ask_m()
     T = np.sqrt((4*(np.pi**2)*(a**3))/(G*(M+m)))
-    print ("T =",T,"s")
+    print ("T =",T,)
 elif missing_variable.lower() in ['a']:
     T = Ask_T()
     M = Ask_M()
