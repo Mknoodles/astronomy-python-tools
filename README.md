@@ -6,7 +6,7 @@ This repository contains Python scripts I've developed while studying astronomy.
 
 These include tools for:
 - Spectral Line Calculations (Balmer Series)
-- Orbital Mechanics (Kepler's Laws, Velocity)
+- Orbital Mechanics (Kepler's Laws, Velocity, Linear Velocity, Rotational Period)
 - Data Visualizations and Graphing
 - Gravity Calculations (Gravitational Acceleration, Force)
 - Albert Einstein's Mass-Energy Equivalence
@@ -27,6 +27,7 @@ These include tools for:
 - Kepler's Third Law Calculator (General)
 - Kepler's Third Law Graph
 - Distance from Sun vs. Orbital Velocity
+- Linear Velocity from Rotational Period
 
 ### Relativity
 - Gravitational Time Dilation Calculator
