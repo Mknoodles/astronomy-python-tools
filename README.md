@@ -37,6 +37,7 @@ These include tools for:
 - Light Curve Plotting Tools (for variable stars)
 
 ## Example Visualization
+![Kepler's 3rd Law Graph](images/keplers-3rd-law.png)
 ![Orbital Velocity Graph](images/Distance-from-Sun-vs-Orbital-Velocity.png)
 
 ## Languages and Libraries Used
