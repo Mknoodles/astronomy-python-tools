@@ -11,7 +11,6 @@ These include tools for:
 - Gravity Calculations (Gravitational Acceleration, Force)
 - Albert Einstein's Mass-Energy Equivalence
 - Relativity (Motion and Gravity Dilation)
-    I created these mainly for studying astronomy and astrophysics. I plan to expand this repository with more scripts to help my research projects.
 
 ## Tools
 
