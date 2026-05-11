@@ -26,7 +26,7 @@ These include tools for:
 ### Orbital Mechanics
 - Kepler's Third Law Calculator (General)
 - Kepler's Third Law Graph
-- Orbital Velocity Vs. Distance
+- Distance from Sun vs. Orbital Velocity
 
 ### Relativity
 - Gravitational Time Dilation Calculator
