@@ -3,6 +3,9 @@ import astropy
 from astropy import units as u 
 from astropy.constants import G
 
+# Converting Gravitational Constant to a pure value without units
+G = G.to_value()
+
 # Mass in kg
 mass = float(input("What is the mass of your object in kg? "))
 
