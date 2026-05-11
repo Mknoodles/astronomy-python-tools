@@ -2,7 +2,7 @@
 
 A collection of Python tools and visualizations related to astrophysics, orbital mechanics, relativity, and observational astronomy.
 
-This repository contains Python scripts I've written to support my astronomy classes.
+This repository contains Python scripts I've developed while studying astronomy and astrophysics. Many projects began as class concepts and later expanded into independent computational exploration, visualization, and debugging of astrophysical systems.
 
 These include tools for:
 - Spectral Line Calculations (Balmer Series)
