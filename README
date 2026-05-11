@@ -8,7 +8,7 @@ These include tools for:
 - Spectral Line Calculations (Balmer Series)
 - Orbital Mechanics (Kepler's Laws, Velocity)
 - Data Visualizations and Graphing
-- Gravity Calculations (Gravitational Force, Acceleration)
+- Gravity Calculations (Gravitational Acceleration, Force)
 - Albert Einstein's Mass-Energy Equivalence
 I created these mainly for studying astronomy and astrophysics. I plan to expand this repository with more scripts to help my research projects.
 
@@ -19,13 +19,19 @@ I created these mainly for studying astronomy and astrophysics. I plan to expand
 - Albert Einstein's Energy-Mass Equivalence Calculator
 
 ### Gravity Calculations
-- Gravity Acceleration Calculator
-- Gravity Acceleration Calculator (Stellar Masses)
+- Gravitational Acceleration Calculator
+- Gravitational Acceleration Calculator (Stellar Masses)
+- Gravitational Force Calculator
 
 ### Orbital Mechanics
-- Kepler's Third Law Calculator
+- Kepler's Third Law Calculator (General)
 - Kepler's Third Law Graph
 - Orbital Velocity Vs. Distance
+
+### Relativity
+- Gravitational Time Dilation Calculator
+- Motion Time Dilation Calculator
+- Gravitational Time Dilation + Motion Time Dilation Calculator
 
 ### Data Analysis (in progress)
 - Light Curve Plotting Tools (for variable stars)
