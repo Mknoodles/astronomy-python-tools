@@ -19,7 +19,7 @@ plt.plot(x, e, label='KM/s/AU')
 # Plot labels
 plt.xlabel('Distance from Sun (AU)')
 plt.ylabel('Velocity (KM/s)')
-plt.title('Distance from Sun vs. Orbital Speed')
+plt.title('Distance from Sun vs. Orbital Velocity')
 plt.grid(True)
 plt.legend()
 plt.show()
