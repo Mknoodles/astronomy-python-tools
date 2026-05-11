@@ -1,6 +1,6 @@
 # Astronomy Python Tools
 
-Welcome to my collection of Python scripts used for astronomy and astrophysics!
+A collection of Python tools and visualizations related to astrophysics, orbital mechanics, relativity, and observational astronomy.
 
 This repository contains Python scripts I've written to support my astronomy classes.
 
@@ -36,6 +36,10 @@ I created these mainly for studying astronomy and astrophysics. I plan to expand
 
 ### Data Analysis (in progress)
 - Light Curve Plotting Tools (for variable stars)
+
+## Example Visualization
+![Kepler's 3rd Law Graph](images/kepler's 3rd law.png)
+![Orbital Velocity Graph](images/velocity vs. orbital distance output.png)
 
 ## Languages and Libraries Used
 - Python
