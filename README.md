@@ -38,7 +38,7 @@ These include tools for:
 
 ## Example Visualization
 ![Kepler's 3rd Law Graph](images/keplers-3rd-law.png)
-
+![Orbital Velocity Graph](images/Distance-from-Sun-vs-Orbital-Velocity.png)
 
 ## Languages and Libraries Used
 - Python
